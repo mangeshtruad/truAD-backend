@@ -1,7 +1,25 @@
 # TruAD Dashboard Backend
 
-## Changes to be Made
+This is the Backend for the TruAD dashboard.
 
-- controller/clip.js - Line 29-31 & Line 81-82- Set the right location of the ffmpeg executables
-- controller/ivideo.js - Line 22 - Set the correct directory for the file upload
-- controller/ivideo.js - Line 11 - Set the correct directory for the file upload
+## Technologies used
+
+- NodeJS
+- ExpressJS
+- MongoDB
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+$ git clone https://github.com/mangeshtruad/truAD-backend
+$ cd /truAD-backend
+$ npm install
+$ npm start
+```
+    
+## Installation
+
+This app has been deployed on [Render]('https://truad-backend.onrender.com')
