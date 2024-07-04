@@ -22,4 +22,4 @@ $ npm start
     
 ## Installation
 
-This app has been deployed on [Render]('https://truad-backend.onrender.com')
+This app has been deployed on [Render](https://truad-backend.onrender.com)
